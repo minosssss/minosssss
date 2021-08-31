@@ -16,7 +16,8 @@
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 
 
-<br>
+<br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minosssss&show_icons=true&hide_border=true)](https://github.com/minosssss)
 
