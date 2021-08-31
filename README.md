@@ -18,10 +18,8 @@
 
 
 <br />
-<br />
 
 ---
-<br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minosssss&show_icons=true&hide_border=true)](https://github.com/minosssss)
