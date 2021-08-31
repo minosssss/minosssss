@@ -1,9 +1,9 @@
 ## I'm becoming a Backend developer
 
-- 👋 Hi, I’m @minosssss
-- 👀 I’m interested in python
+- 👋 Hi, I’m MINHO @minosssss
+- 👀 I’m interested in Backend developer and Data engineer
 - 🌱 I’m currently learning everything about Backend, one by one.
-- 💞️ I’m looking to collaborate with other junior developer.
+- 💞️ I’m looking to collaborate with other developer.
 - 📫 How to reach me ...
 
 
@@ -18,8 +18,11 @@
 
 
 
-<br/>
-<br/>
+
+<br />
+<br />
+
+---
 
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minosssss&show_icons=true&hide_border=true)
 
