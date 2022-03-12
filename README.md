@@ -32,7 +32,7 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minosssss&layout=compact"/></a>&nbsp 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minosssss&layout=compact"/></a>
   <img src="https://github-readme-stats.vercel.app/api?username=minosssss&show_icons=true&hide_border=true"/></a>&nbsp 
 </p>
 
