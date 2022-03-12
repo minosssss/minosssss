@@ -1,26 +1,40 @@
-## I'm becoming a Backend developer
+![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20LeeMinHo;&fontColor=f5ce00&fontSize=70&animation=twinkling)
 
-- 👋 Hi, I’m MINHO @minosssss
-- 👀 I’m interested in Backend developer and Data engineer
-- 🌱 I’m currently learning everything about Backend, one by one.
-- 💞️ I’m looking to collaborate with other developer.
-- 📫 How to reach me ...
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://jesuisjavert.github.io/)](https://jesuisjavert.github.io/) [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/unialike/)](https://www.instagram.com/unialike/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjesuisjavert&count_bg=%23DB74CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=pdf&color=lightgrey&link=https://drive.google.com/file/d/1oE6KiIafoB9xDQQit--gzLBPakrh3m7Q/view?usp=sharing)](https://drive.google.com/file/d/1oE6KiIafoB9xDQQit--gzLBPakrh3m7Q/view?usp=sharing)
+<hr>
 
-
-### Languages and Tools:
-
-<code><img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
-<code><img align="left" alt="Jupyter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"/></code>
-<code><img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original.svg"/></code>
-<code><img align="left" alt="CSS3r" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg"/></code>
-<code><img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></code>
-<code><img align="left" alt="django" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"/></code>
+- 💻I'm a Software Engineer Interested in C#, Web, Cloud and Deep Learning.
+- 🌏 I am from South Korea and living in Dongtan. I lived in France for a while.
+- 🔭 I’m currently working as a Software Enginner at ASM Korea.
+- 🌱 I’m currently learning C# / C++. 
+- 🚀 I always take care not to stay in my comfort zone.
+- 📫 How to reach me: jesuisjavert@gmail.com
+- 😄 Fun facts: I speak Korean, English, French ! Enchanté tout le monde 😊
 
 
-<br />
+<hr>
 
----
-<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minosssss&show_icons=true&hide_border=true)](https://github.com/minosssss)
+**Languages and Tools**  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
+</p>
+
+
+
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minosssss&layout=compact)](https://github.com/minosssss/github-readme-stats) ![MINHO's github stats](https://github-readme-stats.vercel.app/api?username=minosssss&show_icons=true&hide_border=true)
 
