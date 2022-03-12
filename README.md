@@ -1,6 +1,6 @@
 ![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=1A0F14&height=105&section=footer&text=%20LeeMinHo;&fontColor=f5ce00&fontSize=70&animation=twinkling)
 
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://minosssss.tistory.com//)](https://minosssss.tistory.com//) 
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=tistory&link=https://minosssss.tistory.com//)](https://minosssss.tistory.com//) 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fminosssss&count_bg=%23DB74CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
  [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=pdf&color=lightgrey&link=https://minosssss.notion.site/6dada43ac0b740da903f96a333a83890)](https://minosssss.notion.site/6dada43ac0b740da903f96a333a83890)
 <hr>
