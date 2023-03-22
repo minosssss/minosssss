@@ -5,7 +5,7 @@
  
  <p align="center">
   <a href="https://minosssss.notion.site/6dada43ac0b740da903f96a333a83890"><img src="https://img.shields.io/badge/Portfoilo-333333?style=for-the-badge&logo=Notion&logoColor=white&link=https://minosssss.notion.site/6dada43ac0b740da903f96a333a83890"/></a>&nbsp
-  <a href="https://minosssss.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-lightgray?style=for-the-badge&logo=&logoColor=white&link=https://minosssss.notion.site/6dada43ac0b740da903f96a333a83890"/></a>&nbsp
+  
 </p>
 <br>
 
